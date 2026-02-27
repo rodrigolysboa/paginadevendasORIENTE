@@ -1,0 +1,243 @@
+{
+	"content": [
+		{
+			"id": "e1f2a3b4",
+			"settings": {
+				"background_background": "classic",
+				"background_color": "#000000",
+				"padding": {
+					"unit": "px",
+					"top": "80",
+					"right": "0",
+					"bottom": "80",
+					"left": "0",
+					"isLinked": false
+				},
+				"padding_mobile": {
+					"unit": "px",
+					"top": "40",
+					"right": "0",
+					"bottom": "40",
+					"left": "0",
+					"isLinked": false
+				}
+			},
+			"elements": [
+				{
+					"id": "c1d2e3f4",
+					"settings": {
+						"_column_size": 50,
+						"content_position": "middle"
+					},
+					"elements": [
+						{
+							"id": "w1a2b3c4",
+							"settings": {
+								"title": "🏷️ -20% OFF em qualquer plano",
+								"title_color": "#F10023",
+								"typography_typography": "custom",
+								"typography_font_weight": "800",
+								"align_mobile": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "heading",
+							"elType": "widget"
+						},
+						{
+							"id": "w2a2b3c4",
+							"settings": {
+								"title": "Mais precisão. <br><span style='color:#F10023'>Mais rapidez.</span> <br>Mais Lucro.",
+								"title_color": "#FFFFFF",
+								"typography_typography": "custom",
+								"typography_font_size": { "unit": "px", "size": 60 },
+								"typography_font_size_mobile": { "unit": "px", "size": 36 },
+								"typography_line_height": { "unit": "em", "size": 1.1 },
+								"align_mobile": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "heading",
+							"elType": "widget"
+						},
+						{
+							"id": "w3a2b3c4",
+							"settings": {
+								"editor": "<p style='color:#A1A1AA;'>Transforme fotos de tatuagens em <strong>decalques prontos</strong> para imprimir em segundos com apenas 1 clique!</p>",
+								"align_mobile": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "text-editor",
+							"elType": "widget"
+						},
+						{
+							"id": "w4a2b3c4",
+							"settings": {
+								"text": "Ver Planos Disponíveis",
+								"link": { "url": "#pricing" },
+								"background_color": "#F10023",
+								"typography_typography": "custom",
+								"typography_font_weight": "bold",
+								"border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true },
+								"align_mobile": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "button",
+							"elType": "widget"
+						}
+					],
+					"elType": "column"
+				},
+				{
+					"id": "c2d2e3f4",
+					"settings": { "_column_size": 50 },
+					"elements": [
+						{
+							"id": "w5a2b3c4",
+							"settings": {
+								"image": {
+									"url": "https://orientetattoo.app/wp-content/uploads/2026/01/Copia-de-OrienteTattoo.App-9.png",
+									"id": "",
+									"size": "large",
+									"alt": "OrienteTattoo Logo",
+									"source": "library"
+								}
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "image",
+							"elType": "widget"
+						}
+					],
+					"elType": "column"
+				}
+			],
+			"elType": "section"
+		},
+		{
+			"id": "s2f2a3b4",
+			"settings": {
+				"background_background": "classic",
+				"background_color": "#09090B",
+				"padding": { "unit": "px", "top": "60", "right": "0", "bottom": "60", "left": "0", "isLinked": false }
+			},
+			"elements": [
+				{
+					"id": "c3d2e3f4",
+					"settings": { "_column_size": 100 },
+					"elements": [
+						{
+							"id": "w6a2b3c4",
+							"settings": {
+								"title": "Todo tatuador já passou por isso:",
+								"title_color": "#FFFFFF",
+								"align": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "heading",
+							"elType": "widget"
+						},
+						{
+							"id": "w7a2b3c4",
+							"settings": {
+								"icon_list": [
+									{ "text": "Cliente manda foto ruim, torta ou com péssima qualidade", "selected_icon": { "value": "fas fa-times-circle", "library": "fa-solid" } },
+									{ "text": "Tatuagem está no braço ou perna, toda deformada", "selected_icon": { "value": "fas fa-times-circle", "library": "fa-solid" } },
+									{ "text": "Parte do desenho está cortada ou escondida", "selected_icon": { "value": "fas fa-times-circle", "library": "fa-solid" } }
+								],
+								"icon_color": "#F10023",
+								"text_color": "#D4D4D8",
+								"align": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "icon-list",
+							"elType": "widget"
+						}
+					],
+					"elType": "column"
+				}
+			],
+			"elType": "section"
+		},
+		{
+			"id": "s3f2a3b4",
+			"settings": {
+				"background_background": "classic",
+				"background_color": "#000000",
+				"padding": { "unit": "px", "top": "60", "right": "0", "bottom": "60", "left": "0", "isLinked": false }
+			},
+			"elements": [
+				{
+					"id": "c4d2e3f4",
+					"settings": { "_column_size": 100 },
+					"elements": [
+						{
+							"id": "w8a2b3c4",
+							"settings": {
+								"title": "Veja na prática como funciona:",
+								"title_color": "#FFFFFF",
+								"align": "center"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "heading",
+							"elType": "widget"
+						},
+						{
+							"id": "w9a2b3c4",
+							"settings": { "youtube_url": "https://www.youtube.com/watch?v=so4wcTd31iM" },
+							"elements": [],
+							"isInner": false,
+							"widgetType": "video",
+							"elType": "widget"
+						},
+						{
+							"id": "w10a2b3c4",
+							"settings": {
+								"html": "<div style='display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; max-width:1100px; margin:40px auto;'> <div style='background:#18181B; padding:30px; border-radius:24px; border:1px solid #27272A; text-align:center; color:white;'> <h3 style='margin:0;'>Mensal</h3> <div style='font-size:40px; font-weight:900; margin:15px 0;'>R$ 49,90</div> <a href='https://orientetattoo.app/checkout/?add-to-cart=16586' style='display:block; background:#F10023; color:white; padding:12px; border-radius:10px; font-weight:bold; text-decoration:none;'>Adquirir</a> </div> <div style='background:#18181B; padding:30px; border-radius:24px; border:2px solid #F10023; text-align:center; color:white; position:relative;'> <span style='position:absolute; top:-12px; left:50%; transform:translateX(-50%); background:#F10023; padding:4px 12px; border-radius:20px; font-size:10px; font-weight:bold;'>POPULAR</span> <h3 style='margin:0;'>Trimestral</h3> <div style='font-size:40px; font-weight:900; margin:15px 0;'>R$ 139,90</div> <a href='https://orientetattoo.app/checkout/?add-to-cart=17006' style='display:block; background:#F10023; color:white; padding:12px; border-radius:10px; font-weight:bold; text-decoration:none;'>Adquirir</a> </div> <div style='background:#18181B; padding:30px; border-radius:24px; border:1px solid #27272A; text-align:center; color:white;'> <h3 style='margin:0;'>Anual</h3> <div style='font-size:40px; font-weight:900; margin:15px 0;'>R$ 549,90</div> <a href='https://orientetattoo.app/checkout/?add-to-cart=16966' style='display:block; background:#F10023; color:white; padding:12px; border-radius:10px; font-weight:bold; text-decoration:none;'>Adquirir</a> </div> </div>"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "html",
+							"elType": "widget"
+						}
+					],
+					"elType": "column"
+				}
+			],
+			"elType": "section"
+		},
+		{
+			"id": "s4f2a3b4",
+			"settings": { "background_background": "classic", "background_color": "#000000" },
+			"elements": [
+				{
+					"id": "c5d2e3f4",
+					"settings": { "_column_size": 100 },
+					"elements": [
+						{
+							"id": "w11a2b3c4",
+							"settings": {
+								"html": "<script>const names=['Kaique Silva','Jeferson Santos','Vinicius Oliveira','Gustavo Mello','Wesley Almeida','Matheus Rocha','Jardel Godoy','Leonardo Souza','João Victor','Felipe Andrade','Thiago Ribeiro','Henrique Filho','Eduardo Dallastra','Júlia Azevedo','Bianca Menezes','Camila Furtado','Jhony Brandão','Hanna Barbosa']; function showNotif(){ const name=names[Math.floor(Math.random()*names.length)]; const div=document.createElement('div'); div.innerHTML=`<div style='position:fixed; bottom:20px; left:20px; z-index:99999; background:#18181B; border:1px solid #27272A; padding:15px; border-radius:15px; color:white; display:flex; align-items:center; gap:10px; box-shadow:0 10px 30px rgba(0,0,0,0.5); font-family:sans-serif; animation:slideIn 0.5s ease-out;'><div style='width:40px; height:40px; background:#10B981; border-radius:50%; display:flex; align-items:center; justify-content:center;'>🔔</div><div><div style='font-weight:bold; font-size:14px;'>${name}</div><div style='font-size:12px; color:#71717A;'>Acabou de adquirir o acesso!</div></div></div><style>@keyframes slideIn{from{transform:translateX(-100%); opacity:0;} to{transform:translateX(0); opacity:1;}}</style>`; document.body.appendChild(div); setTimeout(()=>div.remove(), 5000); } setInterval(showNotif, 45000); setTimeout(showNotif, 5000);</script>"
+							},
+							"elements": [],
+							"isInner": false,
+							"widgetType": "html",
+							"elType": "widget"
+						}
+					],
+					"elType": "column"
+				}
+			],
+			"elType": "section"
+		}
+	],
+	"page_settings": { "ha_grid_zindex": "1000" },
+	"version": "0.4",
+	"title": "OrienteTattoo App - Final",
+	"type": "page"
+}
